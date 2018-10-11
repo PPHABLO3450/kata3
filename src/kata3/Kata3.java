@@ -11,6 +11,7 @@ package kata3;
  */
 public class Kata3 {
 
+    
     /**
      * @param args the command line arguments
      */
